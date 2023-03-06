@@ -1,0 +1,9 @@
+{
+	"name": "NANIADF11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af7151ae-83f3-45ac-9391-94df792bce3d",
+		"tenantId": "0e34b763-2a93-4a98-b4dd-44ebc3c56174"
+	}
+}
