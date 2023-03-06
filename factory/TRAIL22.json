@@ -1,0 +1,9 @@
+{
+	"name": "TRAIL22",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a73d8cd-a0bd-49b6-8a4e-f68df0f705af",
+		"tenantId": "0e34b763-2a93-4a98-b4dd-44ebc3c56174"
+	}
+}
