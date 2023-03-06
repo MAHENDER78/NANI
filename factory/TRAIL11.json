@@ -1,0 +1,9 @@
+{
+	"name": "TRAIL11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3245ef46-0595-4655-9668-dfe90e6e9eb7",
+		"tenantId": "0e34b763-2a93-4a98-b4dd-44ebc3c56174"
+	}
+}
